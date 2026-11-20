@@ -1,0 +1,9 @@
+ag-ui-core-1.0.5.tgz sha512-W7xg7E/bVco3svYxZCp3CMqJ6/fB15U7yAaMS3mhLCwwlJXFzZJ/bGwMqnNrx6Afmj1WmnjFKzliYds+KFXMMQ==
+ag-ui-client-1.0.5.tgz sha512-p+j69TEs9vN8JHlBEQYVNgHuTnWYCWRGWpSxk6cuamQ3POdhp3Nf0pf6cTit1P827rOf22ypdbR+M5pbvqlD9A==
+ag-ui-encoder-1.0.5.tgz sha512-SKg5jOF2FCVMcl1nSNlk4hZdX9jV5Jg2nce5+jxY7lLSsMkBNMXvEpxZdQ1oWef3YI8OJCyB3cADUI3eyzplhA==
+ag-ui-proto-1.0.5.tgz sha512-HFtYEapXepL3VtCkN2YS1KO5wndjJ8+86d3Qag3EeGp1EKxljZW/hRWN3HiILUTVI5cJ3CqGXBycE1/IAKQsGA==
+copilotkit-runtime-1.90.0.tgz sha512-DbgGH7yOCUvsMkKxZAGFpxiSwxP4EaDTJsbfx1tnX2FI+Aw+zKdoy640f5jfleMeYaojg0hXK5QMgrvfjcDYyg==
+copilotkit-react-core-1.90.0.tgz sha512-3XttGRDMNOJtjJlm1jJdTG2hS15tDXlgAn24Dy0mYI1Hkf3EObyjrsnUK8OqkZ/++8+18GsEsc64eM0+nP3a4g==
+copilotkit-react-ui-1.90.0.tgz sha512-f/HMkaxkMtvSz3k3h8IZUzYVijv91cJmIaGSkujoOnyIDukhZ5xJyl2Gmu9+xdhJ3h0W1bklx+wNK+6353DS7w==
+copilotkit-shared-1.90.0.tgz sha512-AQZVBL+C6Q6osh2cgQ4SeZE6yxpS7NRmQXgPFpnr37TW8fexT3U9eV3x/cwSXTwLZtxW89Wi2bDU0azn8uxMzg==
+copilotkit-runtime-client-gql-1.90.0.tgz sha512-0GpXLtPdlXK/pGKRaZGhfh2L8tjul2ybn8iOYwnWrrz03Ec6E5wEjadDS6ZhiuUoz/JjmiO6n9msdCwz+QDWRA==
